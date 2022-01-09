@@ -16,7 +16,15 @@ Once the task is completed you can update the task as completed. After a month y
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+| <img src = "https://github.com/TechTalkerShubh/GOD/blob/3b5cead14c8bbd519f81eeab7ed404356e3d9e8f/GOD%20-%20Assets/13.png" width="230" height="400" /> 
+ <img src = "https://github.com/TechTalkerShubh/GOD/blob/3b5cead14c8bbd519f81eeab7ed404356e3d9e8f/GOD%20-%20Assets/14.png" width="230" height="400" /> 
+<img src = "https://github.com/TechTalkerShubh/GOD/blob/3b5cead14c8bbd519f81eeab7ed404356e3d9e8f/GOD%20-%20Assets/15.png" width="230" height="400" />
+<img src = "https://github.com/TechTalkerShubh/GOD/blob/3b5cead14c8bbd519f81eeab7ed404356e3d9e8f/GOD%20-%20Assets/16.png" width="230" height="400" />
+<img src = "https://github.com/TechTalkerShubh/GOD/blob/3b5cead14c8bbd519f81eeab7ed404356e3d9e8f/GOD%20-%20Assets/17.png" width="230" height="400" />
+<img src = "https://github.com/TechTalkerShubh/GOD/blob/3b5cead14c8bbd519f81eeab7ed404356e3d9e8f/GOD%20-%20Assets/18.png" width="230" height="400" />
+<img src = "https://github.com/TechTalkerShubh/GOD/blob/3b5cead14c8bbd519f81eeab7ed404356e3d9e8f/GOD%20-%20Assets/19.png" width="230" height="400" />|
+
 
 
 
