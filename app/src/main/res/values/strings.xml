@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GOD</string>
+    <string name="notes">My Notes</string>
+    <string name="notes_title">Notes Title</string>
+    <string name="notes_sub_title">Notes Sub Title</string>
+    <string name="notes_desc">Enter Note Here</string>
+    <string name="web_url">Enter Web Url</string>
+    <string name="ok">Ok</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <string name="search">Search your notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="complete">Complete</string>
+    <string name="incomplete">Incomplete</string>
+
+    <string name="ColorDefaultNote">#606570</string>
+    <string name="ColorBlueNote">#DD2C00</string>
+    <string name="ColorYellowNote">#0aebaf</string>
+    <string name="ColorWhiteNote">#FFD600</string>
+    <string name="ColorPurpleNote">#64DD17</string>
+    <string name="ColorGreenNote">#52BDFF</string>
+    <string name="ColorOrangeNote">#ff7746</string>
+    <string name="ColorBlackNote">#202734</string>
+    <string name="update_note">Update Note</string>
+    <string name="cancel">Cancel</string>
+</resources>

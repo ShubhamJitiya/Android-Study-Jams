@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/allTaskFragment">
+
+    <fragment
+        android:id="@+id/allTaskFragment"
+        android:name="com.shubhamjitiya.god.ui.AllFragment"
+        android:label="fragment_all_task"
+        tools:layout="@layout/fragment_all" />
+    <fragment
+        android:id="@+id/topGoalsFragment"
+        android:name="com.shubhamjitiya.god.ui.TopFragment"
+        android:label="fragment_top_goals"
+        tools:layout="@layout/fragment_top" />
+    <fragment
+        android:id="@+id/pendingFragment"
+        android:name="com.shubhamjitiya.god.ui.MonthlyFragment"
+        android:label="fragment_pending"
+        tools:layout="@layout/fragment_monthly" />
+
+</navigation>

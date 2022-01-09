@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/allTaskFragment"
+        android:icon="@drawable/ic_all_tasks"
+        android:title="All Task" />
+    <item
+        android:id="@+id/topGoalsFragment"
+        android:icon="@drawable/ic_top_3"
+        android:title="Top 3" />
+    <item
+        android:id="@+id/pendingFragment"
+        android:icon="@drawable/ic_pending_tasks"
+        android:title="Monthly" />
+</menu>
