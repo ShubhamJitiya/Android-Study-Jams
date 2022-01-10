@@ -54,7 +54,7 @@ Following are few android concepts used to achieve the functionalities in the ap
     E.hdodenhof:circleimageview, intuit.ssp:ssp, intuit.sdp:sdp, theartofdev.edmodo, makeramen:roundedimageview, devrel:easypermissions, kotlinx-coroutines
 
 ### Application Link & Future Scope : 
-You can access the app from [here](https://play.google.com/store/apps/details?id=com.shubhamjitiya.god) or [here] (https://drive.google.com/drive/folders/1AcYWmQtLbLGVgYKjgatai8cArRv6QUFH?usp=sharing)
+You can access the app from [here](https://play.google.com/store/apps/details?id=com.shubhamjitiya.god) or [here](https://drive.google.com/drive/folders/1AcYWmQtLbLGVgYKjgatai8cArRv6QUFH?usp=sharing)
 
 Because of the very short time span, we are not able to develop a fully fledged app but we have shortlisted our future updates.
 Future updates will include some improvement like user can delete note by swipe left or right, while adding task top - 3 goals will be automatically identified by asking few questions to them. So, app will identify the top 3 most important tasks of the day based on the questions asked to them. The pending task will be added so user can easily see the remaining task separately which will be shown in the different fragment. Also thinking to schedule the tasks using job scheduling algorithm. Adding the feature to add an image.
